@@ -1,0 +1,52 @@
+Práctica de Analítica de Datos: Tipos y Operaciones Básicas
+
+Objetivo: Consolidar el conocimiento sobre los tipos de datos (numéricos, cadenas, booleanos), y aplicar operaciones aritméticas, relacionales y lógicas para resolver problemas de análisis de datos sencillos.
+
+Parte 1. Tipos de datos
+
+	Define tres variables:
+		- Un número entero (int) con tu edad.
+		- Un número decimal (float) con tu altura en metros.
+		- Una cadena de texto (str) con tu nombre completo.
+
+	Pregunta: ¿qué función en Python permite conocer el tipo de dato de una variable? Úsala para mostrar los resultados.
+
+Parte 2. Operaciones aritméticas
+
+	Supón que compras 3 productos con precios: 125.50, 89.99 y 39.75.
+		- Calcula el total de la compra.
+		- Aplica un descuento del 15%.
+		- Calcula el IVA del 16% sobre el precio con descuento.
+		- Obtén el total final a pagar.
+	
+	¿Qué operador usarías para obtener el residuo de dividir 125 entre 12?
+		Escríbelo y ejecútalo en código.
+
+Parte 3. Operaciones relacionales
+
+	Con los datos anteriores:
+		- Verifica si tu edad es mayor a 18.
+		- Comprueba si el precio más alto es mayor que 100.
+		- Evalúa si el total final de la compra es menor o igual a 200.
+
+Parte 4. Operaciones lógicas
+
+	Crea dos variables booleanas:
+		- pago_tarjeta = True
+		- tiene_descuento = False
+		- Evalúa las siguientes expresiones:
+		- ¿El cliente pagó con tarjeta y tiene descuento?
+		- ¿El cliente pagó con tarjeta o tiene descuento?
+		- Niega el valor de tiene_descuento.
+
+Parte 5. Integración
+		Redacta un programa en Python que:
+    	-	Solicite al usuario:
+				- Edad
+				- Altura
+				- Monto de una compra
+		Muestre en pantalla:
+				- El tipo de cada dato ingresado.
+				- Si el usuario es mayor de edad.
+				- Si la compra excede los $500.
+				- Si el usuario es mayor de edad y su compra excede $500.
